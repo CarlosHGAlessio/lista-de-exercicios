@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
  
-public class numprim {
+public class exercicio_5 {
      
     public static void main(String[] args) {    
         int n[] = new int[2];    
